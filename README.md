@@ -2,8 +2,11 @@
 <img src="https://raw.githubusercontent.com/dev-lamia/dev-lamia/main/lamia_akter_logo.png" width="100%">
 
 <h1 align="center">Hi, I'm Lamia Akter</h1>
-<h3 align="center">Backend & ERP Developer | Problem Solver | Clean Code Enthusiast</h3>
 
+<!-- TYPING ANIMATION -->
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=5B8DEF&center=true&width=560&lines=Backend+%26+ERP+Developer+%F0%9F%9A%80;Learning+C%2C+Java%2C+Odoo+%26+More+%F0%9F%93%9A;Building+Real-World+ERP+Systems+%F0%9F%94%A7;Clean+Code+%7C+System+Design+%7C+Backend+%F0%9F%92%BB" alt="Typing SVG" />
+</p>
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=dev-lamia&label=Profile%20Views&color=5B8DEF&style=for-the-badge" />
 </p>
