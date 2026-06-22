@@ -113,6 +113,7 @@ Understanding how real businesses run using ERP:
 - Understanding architecture behind **ERP & backend systems**
 - Preparing to build and maintain **real Odoo modules**
 
----
+<!-- ANIMATED FOOTER -->
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=100&section=footer" width="100%"/>
 
 <p align="center"><b>“Write code that makes sense — not noise.”</b></p>
