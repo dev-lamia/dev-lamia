@@ -42,24 +42,14 @@ Understanding how real businesses run using ERP:
 </p>
 
 ---
+## 🧠 Core Focus
 
-## 📊 GitHub Statistics
-
-<div align="center">
-
-<img
-  src="https://github-readme-stats.vercel.app/api?username=dev-lamia&show_icons=true&hide_border=true&bg_color=FFFFFF&title_color=2F80ED&text_color=333333&icon_color=5B8DEF&count_private=true&include_all_commits=true"
-  width="48%"
-/>
-
-<img
-  src="https://github-readme-stats.vercel.app/api/top-langs/?username=dev-lamia&layout=compact&hide_border=true&bg_color=FFFFFF&title_color=2F80ED&text_color=333333"
-  width="48%"
-/>
-
-</div>
-
----
+<p align="center">
+  <img src="https://img.shields.io/badge/Odoo-ERP%20Development-875A7B?style=for-the-badge&logo=odoo&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Backend-System%20Logic-2F80ED?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/Database-MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Linux-Daily%20Use-FCC624?style=for-the-badge&logo=linux&logoColor=black"/>
+</p>
 
 ## 📈 GitHub Activity Graph
 
