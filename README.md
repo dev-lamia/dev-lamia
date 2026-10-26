@@ -51,15 +51,21 @@ Understanding how real businesses run using ERP:
   <img src="https://img.shields.io/badge/Linux-Daily%20Use-FCC624?style=for-the-badge&logo=linux&logoColor=black"/>
 </p>
 
+
+
+
 ## 📈 GitHub Activity Graph
 
 <p align="center">
   <img
-    src="https://github-readme-activity-graph.vercel.app/graph?username=dev-lamia&bg_color=FFFFFF&color=2F80ED&line=5B8DEF&point=2F80ED&area=true&area_color=D8EAFE&hide_border=true"
+    src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=dev-lamia&theme=github"
     alt="Lamia's GitHub Activity Graph"
     width="100%"
   />
 </p>
+
+---
+
 
 ---
 
