@@ -54,17 +54,7 @@ Understanding how real businesses run using ERP:
 
 
 
-## 📈 GitHub Activity Graph
 
-<p align="center">
-  <img
-    src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=dev-lamia&theme=github"
-    alt="Lamia's GitHub Activity Graph"
-    width="100%"
-  />
-</p>
-
----
 
 
 ---
@@ -79,25 +69,31 @@ Understanding how real businesses run using ERP:
   />
 </p>
 
-## 🐍 Contribution Snake
+## 📊 Developer Insights
 
 <p align="center">
-  <picture>
-    <source
-      media="(prefers-color-scheme: dark)"
-      srcset="https://raw.githubusercontent.com/dev-lamia/dev-lamia/output/github-contribution-grid-snake-dark.svg"
-    />
-    <source
-      media="(prefers-color-scheme: light)"
-      srcset="https://raw.githubusercontent.com/dev-lamia/dev-lamia/output/github-contribution-grid-snake.svg"
-    />
-    <img
-      alt="GitHub Contribution Snake"
-      src="https://raw.githubusercontent.com/dev-lamia/dev-lamia/output/github-contribution-grid-snake.svg"
-      width="100%"
-    />
-  </picture>
+  <img
+    src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=dev-lamia&theme=github"
+    width="100%"
+    alt="Profile Details"
+  />
 </p>
+
+<p align="center">
+  <img
+    src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=dev-lamia&theme=github"
+    width="49%"
+    alt="Top Languages by Repo"
+  />
+  <img
+    src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=dev-lamia&theme=github&utcOffset=6"
+    width="49%"
+    alt="Productive Time"
+  />
+</p>
+
+---
+---
 
 ## 📡 Connect With Me
 
