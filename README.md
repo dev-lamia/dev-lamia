@@ -1,5 +1,5 @@
 <!-- CLEAN HEADER -->
-<img src="https://raw.githubusercontent.com/dev-lamia/dev-lamia/main/lamia_akter_logo.png" width="100%">
+<img src="https://raw.githubusercontent.com/dev-lamia/dev-lamia/main/lamia-animated-banner.gif" width="100%">
 
 <h1 align="center">Hi, I'm Lamia Akter</h1>
 
